@@ -21,6 +21,8 @@ spotify api site for developers.
 
 Below are examples of the various functions used in the application.
 
+<h3>spotify-this-song</h3>
+
 ![spotify-this-song](/images/spotify-this-song.png)
 
 The spotify-this-song function provides the following information about the selected song:
@@ -29,6 +31,8 @@ The spotify-this-song function provides the following information about the sele
 - A preview link of the song from Spotify
 - The album that the song is from
 
+<h3>concert-this</h3>
+
 ![concert-this](/images/concert-this.png)
 
 The concert-this function provides the following information about the selected band/artist:
@@ -36,6 +40,7 @@ The concert-this function provides the following information about the selected 
 - Venue location
 - Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+<h3>movie-this</h3>
 
 ![movie-this](/images/movie-this.png)
 
@@ -48,6 +53,8 @@ The movie-this function provides the following information about the selected mo
 - Language of the movie.
 - Plot of the movie.
 - Actors in the movie.
+
+<h3>do-what-it-says</h3>
 
 ![do-what-it-says](/images/do-what-it-says.png)
 
