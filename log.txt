@@ -1,0 +1,1058 @@
+
+---------------------------------------------------
+
+City: New York
+Name: The Town Hall
+Country: NY
+Country: United States
+Date: 04/13/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+Name: The Town Hall
+City: New York
+
+---------------------------------------------------
+
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+Name: The Town Hall
+City: New York
+Date: 04/13/2019
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+Name: The Town Hall
+City: New York
+
+---------------------------------------------------
+
+Artist: Ace of Base
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=31846c4af26a45ea848f2733b1e775e2
+Album: The Sign (US Album) [Remastered]
+Song: The Sign
+
+---------------------------------------------------
+
+Artist: John Mayer
+Song: Gravity
+Preview: null
+Album: Continuum
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: John Mayer
+Preview: null
+Album: Continuum
+Song: Gravity
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Shakthisree Gopalan
+Song: Ee Waiting
+Preview: https://p.scdn.co/mp3-preview/50fc46ef0800aef6c599266eb18592c784e93209?cid=31846c4af26a45ea848f2733b1e775e2
+Album: Idi Naa Love Story (Original Motion Picture Soundtrack)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Shakthisree Gopalan
+Song: Ee Waiting
+Preview: https://p.scdn.co/mp3-preview/50fc46ef0800aef6c599266eb18592c784e93209?cid=31846c4af26a45ea848f2733b1e775e2
+Album: Idi Naa Love Story (Original Motion Picture Soundtrack)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Lucky Singh Durgapuria
+Song: Born King
+Preview: https://p.scdn.co/mp3-preview/30abafcf1ca517f0dbe54bfb47b66e2e79ffdca7?cid=31846c4af26a45ea848f2733b1e775e2
+Album: Born King
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/26/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: GROUPAMA STADIUM
+City: Decines Charpieu
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/02/2019
+Name: Estadio da Luz
+City: Lisbon
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/14/2019
+Name: Visarno Arena
+City: Florence
+Country: Italy
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/19/2019
+Name: Stadio San Siro
+City: Milano
+Country: Italy
+Name: National Stadium, Singapore Sports Hub
+
+---------------------------------------------------
+
+Date: 06/22/2019
+Name: Hockenheim-Ring GmbH
+City: Hockenheim
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/29/2019
+Name: Wörthersee Stadion
+City: Klagenfurt
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/03/2019
+Name: NATIONAL ARENA
+City: Bucuresti
+Country: Romania
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/08/2019
+Name: Letiště Letňany
+City: Praha
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2019
+Name: Otkritie Arena
+City: Moscow
+Country: Russia
+
+---------------------------------------------------
+
+City: Singapore
+Date: 07/23/2019
+Name: Malmi Airport
+City: Helsinki (fin)
+Country: Singapore
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Tusindårsskoven
+City: Odense
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/03/2019
+Name: Messegelände
+City: Hannover
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/07/2019
+Name: Ile Obudai / Hongrie
+
+---------------------------------------------------
+
+Country: Hungary
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/11/2019
+Name: Laugardalsvöllur
+City: Reykjavik
+Country: Iceland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/25/2019
+Name: Chantry Park
+City: Suffolk Hill
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Germany
+Name: Chantry Park, IP2 0BS
+City: Ipswich
+Country: United Kingdom
+
+---------------------------------------------------
+
+City: Budapest
+Date: 08/26/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/06/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/26/2019
+Name: 76ers Fieldhouse
+City: Wilmington
+Country: DE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/03/2019
+Name: Wells Fargo Arena
+City: Des Moines
+Country: IA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Providence Medical Center Amphitheater
+City: Bonner Springs
+Country: KS
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/05/2019
+Name: Tom Lee Park
+City: Memphis
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/10/2019
+Name: Hard Rock Stadium
+City: Miami Gardens
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/12/2019
+Name: Colonial Life Arena
+City: Columbia
+Country: SC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/16/2019
+Name: 101 E Beach Blvd
+City: Gulf Shores
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/17/2019
+Name: Gulf Shores, AL
+City: Gulf Shores
+Name: Palms Pool & Dayclub
+City: Las Vegas
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Name: Metro Metro Festival
+Country: AL
+Country: United States
+Country: NV
+
+---------------------------------------------------
+
+Country: Canada
+
+---------------------------------------------------
+
+City: Gulf Shores
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: El Paso County Coliseum
+City: El Paso
+Name: Gulf Shores, AL
+Country: United States
+
+---------------------------------------------------
+
+Country: TX
+
+---------------------------------------------------
+
+Name: Royal Farms Arena
+City: Baltimore
+Country: MD
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/25/2019
+Name: St. Joseph’s Health Amphitheater at Lakeview
+City: Syracuse
+Date: 05/19/2019
+Date: 05/24/2019
+City: Montreal
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Saratoga Performing Arts Center
+City: Saratoga Springs
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Country: United States
+Country: Spain
+City: Barcelona
+Country: NY
+
+---------------------------------------------------
+
+Name: Parc del Fòrum
+
+---------------------------------------------------
+
+City: Barcelona
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/01/2019
+Name: Orange Warsaw Festival
+City: Warszawa
+Country: Poland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/08/2019
+Name: Parklife Festival
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/31/2019
+Date: 06/09/2019
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Bonnaroo Music and Arts Festival
+City: Manchester
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/20/2019
+Name: Staples Center
+City: Los Angeles
+Name: Primavera Sound Festival
+Date: 06/16/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/22/2019
+Name: Staples Center
+City: Los Angeles
+Country: CA
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+City: Lommel
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/30/2019
+Name: Vestiville
+City: Lommel
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/03/2019
+Name: Roskilde Festival
+City: Roskilde
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/05/2019
+Name: Finsbury Park
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: Wireless Festival
+City: Frankfurt
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Marlay Park
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/11/2019
+Name: Openair Frauenfeld
+City: Frauenfeld
+Country: Switzerland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/20/2019
+Name: California Mid-State Fair
+City: Paso Robles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/23/2019
+Name: BOK Center
+City: Tulsa
+Country: OK
+Name: Industriezone Balendijk-Kristalpark
+Name: Heaton Park Manchester
+
+---------------------------------------------------
+
+Date: 06/28/2019
+Name: Intrust Arena
+City: Wichita
+Country: KS
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/26/2019
+Name: Pinnacle Bank Arena
+City: Lincoln
+Country: NE
+Date: 07/24/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Target Center
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/30/2019
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: IN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/31/2019
+Name: John Paul Jones Arena
+Country: United States
+
+---------------------------------------------------
+
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+Date: 08/03/2019
+Name: Downsview Park
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/08/2019
+Date: 07/27/2019
+Name: Slottsskogen
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/09/2019
+Name: Parrukatu
+City: Charlottesville
+
+---------------------------------------------------
+
+City: Helsinki
+Country: Finland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Papas&Beer
+City: Rosarito
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/31/2019
+Name: Ben Franklin Parkway
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+City: Gothenburg
+
+---------------------------------------------------
+
+Date: 04/29/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/30/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/03/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/04/2019
+
+---------------------------------------------------
+
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/03/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/04/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/07/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/09/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/10/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/13/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/14/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Queen
+Song: Killer Queen - Remastered 2011
+Preview: https://p.scdn.co/mp3-preview/90f77ba9c13228618a0d941691e2ef2eace5685c?cid=31846c4af26a45ea848f2733b1e775e2
+
+---------------------------------------------------
+
+Album: Sheer Heart Attack (Deluxe Remastered Version)
+
+---------------------------------------------------
+
+Title: Aquaman
+Release Year: 2018
+IMDB Rating: 7.2
+Country: Australia, USA
+Language: English
+Rotten Tomatoes Rating: 65%
+Plot: Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.
+Actors: Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=31846c4af26a45ea848f2733b1e775e2
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=31846c4af26a45ea848f2733b1e775e2
+Song: Buddy Holly
+Preview: null
+
+---------------------------------------------------
+
+Album: Weezer (Deluxe Edition)
+Artist: Weezer
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Asses Kaur
+Song: Beat It Bijuriya
+Preview: https://p.scdn.co/mp3-preview/1d81ddec1bda16846ba1813c202751fc4a851a63?cid=31846c4af26a45ea848f2733b1e775e2
+Album: Munna Michael (Original Motion Picture Soundtrack)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Michael Jackson
+Preview: https://p.scdn.co/mp3-preview/d1c56cf6b02fa5215b8904ceba894146712a3d11?cid=31846c4af26a45ea848f2733b1e775e2
+Album: Thriller 25 Super Deluxe Edition
+Song: Beat It - Single Version
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/29/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/30/2019
+City: Las Vegas
+Name: Park Theater
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/03/2019
+Country: United States
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+Name: Park Theater
+Date: 09/03/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/04/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/07/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/09/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/10/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/13/2019
+Name: Park Theater
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Las Vegas
+Name: Park Theater
+
+---------------------------------------------------
+
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/14/2019
+Country: NV
+City: Las Vegas
+
+---------------------------------------------------
+
+Title: Happy Gilmore
+Country: USA
+Language: English
+Plot: A rejected hockey player puts his skills to the golf course to save his grandmother's house.
+Actors: Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 31/100
+Release Year: 1996
+IMDB Rating: 7.0
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=31846c4af26a45ea848f2733b1e775e2
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
