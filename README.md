@@ -6,7 +6,7 @@ LIRI will be a command line node app that takes in parameters and gives you back
 
 This project is useful because it allows the developer to run JavaScript in the terminal
 showing its versatility as a front and back end language. Additionally it allows the user to 
-make api calls and receive responses in the terminal. Responses are also loged in the log.txt 
+make api calls and receive responses in the terminal. Responses are also logged in the log.txt 
 file.
 
 To get started with this application, the user will need to install the following npms:
